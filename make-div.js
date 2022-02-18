@@ -9,3 +9,4 @@ while (x % y !== 0) {
     x++;
 }
 
+console.log("The answer: " + x + " is divisble by " + y + ".")
